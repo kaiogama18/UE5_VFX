@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kaiog/Documents/Unreal Projects/UE5/UE5_VFX/Content/VFX/NiagaraEmitter/NE_Sparks.uasset",
+				"C:/Users/kaiog/Documents/Unreal Projects/UE5/UE5_VFX/Content/VFX/NiagaraSystem/NS_Sparks.uasset",
+				"C:/Users/kaiog/Documents/Unreal Projects/UE5/UE5_VFX/Content/Maps/BaseMap.umap",
+				"C:/Users/kaiog/Documents/Unreal Projects/UE5/UE5_VFX/Content/VFX/NiagaraSystem/NE_Sparks.uasset",
+				"C:/Users/kaiog/Documents/Unreal Projects/UE5/UE5_VFX/Content/VFX/NE_Sparks.uasset"
+			]
+		}
+	]
+}
